@@ -45,10 +45,10 @@
 
 
 <!-- Vision -->
-
+  ### Greetings, here some of my vison 👋
 <div align="center">
 
-  ### Hi there! 👋
+
 
 🔭 Working on crafting seamless web experiences  
 🌱 Learning and exploring new front-end technologies  
