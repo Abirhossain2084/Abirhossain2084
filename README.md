@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src="https://github.com/Abirhossain2084/Abirhossain2084/blob/main/images/Git%20Cover%20Abir.png?raw=true" alt="Web Developer">
-</div> -->
+<div align="center">
+  <img src="https://github.com/Abirhossain2084/Abirhossain2084/blob/main/images/abir_git_cover.png?raw=true" alt="Web Developer">
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
