@@ -42,7 +42,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirhossain2084&theme=github_dark" width="400"/>
 
 </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirhossain2084&theme=dracula&show_icons=true&locale=en&layout=compact" alt="Top Langs">
+</div>
 
 <!-- Vision -->
   ## 👋 Greetings, here some of my vison 
