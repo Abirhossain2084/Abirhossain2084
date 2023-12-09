@@ -59,16 +59,22 @@
 <!-- Project 1 -->
 ## 🚀 Project 1: [OutingBD]
 
-- **Description:** The project is about Travel and Tourism managment with Guide booking.
+- **Description:** A Travel and Tourism Management System with Guide Booking.
 
 - **Features:**
-  - Feature 1:The user can see all the features like packages,About packages,Guides and About those guide,Manage package and guide etc .
+  - **Feature 1:** Users can explore various features such as packages, details about packages, guides, and information about those guides. They can also manage packages and guides.
 
-  - Feature 2: There is a authentication system where the user must register/logged in for booking a guide or places.
+  - **Feature 2:** Authentication system requires users to register or log in to book guides or places.
 
-  - Feature 3: After confirm booking the user can give review for the places and also for the guide.
+  - **Feature 3:** After confirming a booking, users can provide reviews for both places and guides.
 
-- **Technologies Used:** Html,css,Tailwind css,js,React,Node,MongoDB,Express,Firebase .
+- **Technologies Used:** HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, Express, Firebase.
+
+- **Live Link:** [OutingBD Live](https://outingbd-e0644.web.app/)
+
+- **Repo Link:** [OutingBD Repo](https://github.com/YourUsername/OutingBD)
+
+
 
 
 <!-- Project 2 -->
