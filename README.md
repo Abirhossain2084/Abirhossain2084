@@ -6,19 +6,23 @@
 
 
 <!-- Streak -->
+### 🚀 My GitHub Streak
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Abirhossain2084&theme=windows-dark&card_width=500" alt="GitHub Streak" />
   </a>
 </div>
 
-<!-- Techonoliges Icon -->
+<!-- Technologies Icons -->
+### 💻 Technologies and Skills
 
 <div align="center">
   <a href="https://skillicons.dev/icons?i=js,html,css,wasm">
     <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
   </a>
 </div>
+
 
 
 <!-- Summary of card -->
