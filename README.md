@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://github.com/Abirhossain2084/Abirhossain2084/blob/main/images/abir_git_cover.png?raw=true" alt="Web Developer">
+  <img src="https://github.com/Abirhossain2084/Abirhossain2084/blob/main/images/abir_git_cover%20(1).png?raw=true" alt="Web Developer">
 </div>
 
 
