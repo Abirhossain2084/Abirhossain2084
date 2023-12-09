@@ -18,8 +18,8 @@
 ## 💻 Technologies and Skills
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=js,html,css,wasm">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
+  <a href="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma" alt="My Skills">
   </a>
 </div>
 
