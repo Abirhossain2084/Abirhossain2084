@@ -6,7 +6,7 @@
 
 
 <!-- Streak -->
-### 🚀 My GitHub Streak
+## 🚀 My GitHub Streak
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -15,7 +15,7 @@
 </div>
 
 <!-- Technologies Icons -->
-### 💻 Technologies and Skills
+## 💻 Technologies and Skills
 
 <div align="center">
   <a href="https://skillicons.dev/icons?i=js,html,css,wasm">
@@ -45,7 +45,7 @@
 
 
 <!-- Vision -->
-  ### Greetings, here some of my vison 👋
+  ## 👋 Greetings, here some of my vison 
 <div align="center">
 
 
