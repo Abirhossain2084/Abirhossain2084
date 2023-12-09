@@ -53,32 +53,11 @@
 - 📫 **Reach me at [abir2hossain2084@gmail.com]**
 - ⚡ **Fun fact: I believe good code is poetry!**
 
-
+## 📚 Recent Projects:
 
 
 <!-- Project 1 -->
-## 🚀 Project 1: [OutingBD]
-
-- **Description:** A Travel and Tourism Management System with Guide Booking.
-
-- **Key Features:**
-  - **Feature 1:** Users can explore various features such as packages, details about packages, guides, and information about those guides. They can also manage packages and guides.
-
-  - **Feature 2:** Authentication system requires users to register or log in to book guides or places.
-
-  - **Feature 3:** After confirming a booking, users can provide reviews for both places and guides.
-
-- **Technologies Used:** HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, Express, Firebase.
-
-- **Live Link:** [OutingBD Live](https://outingbd-e0644.web.app/)
-
-- **Repo Link:** [OutingBD Repo](https://github.com/Abirhossain2084/Outing-bd)
-
-
-
-
-<!-- Project 2 -->
-## 🚀 Project 2: [People-Pulse]
+## 🚀 Project 1: [People-Pulse]
 
 - **Description:** This project focuses on an "Employee Management System."
 
@@ -98,6 +77,27 @@
 - **Live Link:** [People-Pulse Live](https://people-pulse-63cf6.web.app/)
 
 - **Repo Link:** [People-Pulse Repo](https://github.com/Abirhossain2084/People-Pulse-Client)
+
+
+
+
+<!-- Project 2 -->
+## 🚀 Project 2: [OutingBD]
+
+- **Description:** A Travel and Tourism Management System with Guide Booking.
+
+- **Key Features:**
+  - **Feature 1:** Users can explore various features such as packages, details about packages, guides, and information about those guides. They can also manage packages and guides.
+
+  - **Feature 2:** Authentication system requires users to register or log in to book guides or places.
+
+  - **Feature 3:** After confirming a booking, users can provide reviews for both places and guides.
+
+- **Technologies Used:** HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, Express, Firebase.
+
+- **Live Link:** [OutingBD Live](https://outingbd-e0644.web.app/)
+
+- **Repo Link:** [OutingBD Repo](https://github.com/Abirhossain2084/Outing-bd)
 
 
 
