@@ -38,7 +38,11 @@
 
 </div>
 
-### Hi there! 👋
+
+
+
+<div align="center">
+  ### Hi there! 👋
 
 🔭 Working on crafting seamless web experiences  
 🌱 Learning and exploring new front-end technologies  
@@ -48,3 +52,4 @@
 📫 Reach me at [YourEmail@example.com](mailto:YourEmail@example.com)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I believe good code is poetry!
+</div>
