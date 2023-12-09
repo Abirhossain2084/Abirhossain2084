@@ -61,7 +61,7 @@
 
 - **Description:** A Travel and Tourism Management System with Guide Booking.
 
-- **Features:**
+- **Key Features:**
   - **Feature 1:** Users can explore various features such as packages, details about packages, guides, and information about those guides. They can also manage packages and guides.
 
   - **Feature 2:** Authentication system requires users to register or log in to book guides or places.
@@ -72,29 +72,52 @@
 
 - **Live Link:** [OutingBD Live](https://outingbd-e0644.web.app/)
 
-- **Repo Link:** [OutingBD Repo](https://github.com/YourUsername/OutingBD)
+- **Repo Link:** [OutingBD Repo](https://github.com/Abirhossain2084/Outing-bd)
 
 
 
 
 <!-- Project 2 -->
-## 🚀 Project 2: [Project Name 2]
+## 🚀 Project 2: [People-Pulse]
 
-- **Description:** Provide a concise overview of the second project.
-- **Features:**
-  - Feature 1: Elaborate on the first feature of this project.
-  - Feature 2: Detail the second noteworthy feature.
-  - Feature 3: Highlight the third distinctive feature.
-- **Technologies Used:** Enumerate the technologies and tools utilized.
+- **Description:** This project focuses on an "Employee Management System."
+
+- **Key Features:**
+  - **Feature 1:** The project is dashboard-based, allowing access for three types of users: Employee, HR, and Admin.
+
+  - **Feature 2:** Different features are available for each user type. The Admin has access to all user information and lists, can terminate employees, and promote them to HR. HR users can view the stats of all employees, promote any employee to HR, verify employee details, and manage payments. And Finally the employe can see their stats,Payment History,and Work Sheet to submit and details.
+
+  - **Feature 3:** User registration is required for access, and during registration, users can choose their role.
+
+- **Technologies Used:** HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, Express, Firebase.
+
+
+- **Access:** Email:2014751194@uits.edu.bd
+              Pass: Abir$2084
+
+- **Live Link:** [People-Pulse Live](https://people-pulse-63cf6.web.app/)
+
+- **Repo Link:** [People-Pulse Repo](https://github.com/Abirhossain2084/People-Pulse-Client)
+
+
+
 
 <!-- Project 3 -->
-## 🚀 Project 3: [Project Name 3]
+## 🚀 Project 3: [AutoPathfinders]
 
-- **Description:** Introduce the third project and its purpose.
-- **Features:**
-  - Feature 1: Describe the first prominent feature of this project.
-  - Feature 2: Provide information on the second notable feature.
-  - Feature 3: Emphasize the third key feature.
-- **Technologies Used:** Specify the technologies and tools applied.
+- **Description:** This project is an online car brand shop.
 
+- **Key Features:**
+  - **Feature 1:** User authentication system allows access to all website features.
 
+  - **Feature 2:** Users can view cars categorized by type and see detailed information.
+
+  - **Feature 3:** Logged-in users can add cars to their wishlist and make modifications.
+
+  - **Feature 4:** An admin site simplifies the addition and updating of products.
+
+- **Technologies Used:** HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, Express, Firebase.
+
+- **Live Link:** [AutoPathfinders Live](https://autopathfinders.web.app/)
+
+- **Repo Link:** [AutoPathfinders Repo](https://github.com/Abirhossain2084/AutoPathfinders-Client)
