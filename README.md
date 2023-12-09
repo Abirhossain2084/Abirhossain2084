@@ -8,15 +8,15 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=js,html,css,wasm">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
+  </a>
+</div>
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-
-
-
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Abirhossain2084}&theme={2077}
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirhossain2084&theme=2077" alt="My GitHub Stats">
+</div>
 
 ### Hi there! 👋
 
