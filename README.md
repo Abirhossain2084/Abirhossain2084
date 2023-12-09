@@ -39,10 +39,10 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abirhossain2084&theme=github_dark" width="400"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirhossain2084&theme=github_dark" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirhossain2084&theme=github_dark" width="400"/> 
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirhossain2084&theme=2077&show_icons=true&locale=en&layout=compact" alt="Top Langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirhossain2084&theme=radical&show_icons=true&locale=en&layout=compact" width="400" alt="Top Langs">
 
 </div>
 
