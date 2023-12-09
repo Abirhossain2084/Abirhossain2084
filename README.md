@@ -19,16 +19,17 @@
 
 
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/md-abir-hossain-212051275/">
+  <a href="https://www.linkedin.com/in/md-abir-hossain-212051275/"
+     style="border: 2px solid rgb(0, 119, 181); border-radius: 5px; padding: 5px;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 
- <a href="https://twitter.com/ABIR2084">
+  <a href="https://twitter.com/ABIR2084"
+     style="border: 2px solid rgb(0, 172, 237); border-radius: 5px; padding: 5px;">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
- 
 </div>
+
 
 
 <!-- Technologies Icons -->
