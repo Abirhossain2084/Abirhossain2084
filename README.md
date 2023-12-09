@@ -24,6 +24,29 @@
 </div>
 
 
+<!-- Profile View Button -->
+<div align="center">
+  <a href="https://github.com/Abirhossain2084">
+    <img src="https://komarev.com/ghpvc/?username=Abirhossain2084" alt="Profile Views" />
+  </a>
+</div>
+
+<!-- Social Media Connect Buttons -->
+<div align="center">
+  <a href="YourLinkedInProfileURL">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+
+ <a href="YourTwitterProfileURL">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="YourGitHubProfileURL">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add more social media buttons as needed -->
+</div>
+
+
 
 <!-- Summary of card -->
 
@@ -74,9 +97,9 @@
 - **Access:** Email:2014751194@uits.edu.bd
               Pass: Abir$2084
 
-- **Live Link:** [People-Pulse Live](https://people-pulse-63cf6.web.app/)
+- **Live Link:** 🌐 [People-Pulse Live](https://people-pulse-63cf6.web.app/)
 
-- **Repo Link:** [People-Pulse Repo](https://github.com/Abirhossain2084/People-Pulse-Client)
+- **Repo Link:** 🌍 [People-Pulse Repo](https://github.com/Abirhossain2084/People-Pulse-Client)
 
 
 
@@ -95,9 +118,9 @@
 
 - **Technologies Used:** HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, Express, Firebase.
 
-- **Live Link:** [OutingBD Live](https://outingbd-e0644.web.app/)
+- **Live Link:** 🌐 [OutingBD Live](https://outingbd-e0644.web.app/)
 
-- **Repo Link:** [OutingBD Repo](https://github.com/Abirhossain2084/Outing-bd)
+- **Repo Link:**🌍 [OutingBD Repo](https://github.com/Abirhossain2084/Outing-bd)
 
 
 
@@ -118,6 +141,6 @@
 
 - **Technologies Used:** HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, Express, Firebase.
 
-- **Live Link:** [AutoPathfinders Live](https://autopathfinders.web.app/)
+- **Live Link:** 🌐 [AutoPathfinders Live](https://autopathfinders.web.app/)
 
-- **Repo Link:** [AutoPathfinders Repo](https://github.com/Abirhossain2084/AutoPathfinders-Client)
+- **Repo Link:** 🌍 [AutoPathfinders Repo](https://github.com/Abirhossain2084/AutoPathfinders-Client)
