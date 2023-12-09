@@ -1,6 +1,11 @@
 ![Web Developer](https://github.com/Abirhossain2084/Abirhossain2084/blob/main/images/Git%20Cover%20Abir.png?raw=true)
 
-### Hi there! 👋
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abirhossain2084&theme=windows-dark&card_width=500)](https://git.io/streak-stats)
+
+
+
 
 🔭 Working on crafting seamless web experiences  
 🌱 Learning and exploring new front-end technologies  
