@@ -55,6 +55,6 @@
 👯 Open to collaboration on exciting projects  
 🤔 Seeking help with optimizing performance  
 💬 Ask me about front-end development and design  
-📫 Reach me at [abirhossain2084@gmail.com] 
+📫 Reach me at [abir2hossain2084@gmail.com] 
 ⚡ Fun fact: I believe good code is poetry!
 </div>
