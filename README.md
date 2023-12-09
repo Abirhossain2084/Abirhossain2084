@@ -42,6 +42,20 @@
 </div>
 
 
+<!-- Vision -->
+## 👋 About and Vision:
+
+- 🔭 **Working on crafting seamless web experiences**
+- 🌱 **Learning and exploring new front-end technologies**
+- 👯 **Open to collaboration on exciting projects**
+- 🤔 **Seeking help with optimizing performance**
+- 💬 **Ask me about front-end development and design**
+- 📫 **Reach me at [abir2hossain2084@gmail.com]**
+- ⚡ **Fun fact: I believe good code is poetry!**
+
+
+
+
 <!-- Project 1 -->
 ## 🚀 Project 1: [Project Name 1]
 
@@ -72,15 +86,4 @@
   - Feature 3: Emphasize the third key feature.
 - **Technologies Used:** Specify the technologies and tools applied.
 
-<!-- Vision -->
-## 👋 About and Vision:
 
-<div align="center">
-  🔭 Working on crafting seamless web experiences  
-  🌱 Learning and exploring new front-end technologies  
-  👯 Open to collaboration on exciting projects  
-  🤔 Seeking help with optimizing performance  
-  💬 Ask me about front-end development and design  
-  📫 Reach me at [abir2hossain2084@gmail.com] 
-  ⚡ Fun fact: I believe good code is poetry!
-</div>
