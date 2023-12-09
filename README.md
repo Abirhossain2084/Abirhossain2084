@@ -23,9 +23,9 @@
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abirhossain2084&theme=2077" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abirhossain2084&theme=transparent" width="400"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirhossain2084&theme=2077" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirhossain2084&theme=transparent" width="400"/>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirhossain2084&theme=2077" alt="My GitHub Stats">
 
