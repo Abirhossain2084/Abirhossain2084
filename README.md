@@ -36,8 +36,8 @@
 ## 💻 Technologies and Skills
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma" alt="My Skills" style="border-radius: 50%; padding: 5px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <a href="https://skillicons.dev/icons?i=html,css,js,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma" alt="My Skills" style="border-radius: 50%; padding: 5px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   </a>
 </div>
 
@@ -62,7 +62,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abirhossain2084&theme=2077" width="900"/>
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirhossain2084&theme=radical&show_icons=true&locale=en&layout=compact" width="400" alt="Top Langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirhossain2084&theme=merko&show_icons=true&locale=en&layout=compact" width="400" alt="Top Langs">
 
 </div>
 
