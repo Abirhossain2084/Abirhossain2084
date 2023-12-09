@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Abirhossain2084/Abirhossain2084/blob/main/images/Git%20Cover%20Abir.png?raw=true" alt="Web Developer">
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -14,9 +14,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirhossain2084&theme=2077" alt="My GitHub Stats">
-</div>
+
 
 
 ##  📚Summary of My Profile
@@ -29,7 +27,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirhossain2084&theme=dracula" width="400"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirhossain2084&theme=dracula" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirhossain2084&theme=2077" alt="My GitHub Stats">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abirhossain2084&theme=dracula&utcOffset=8" width="400"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abirhossain2084&theme=dracula" width="900"/>
