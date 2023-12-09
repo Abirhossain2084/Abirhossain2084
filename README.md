@@ -57,14 +57,19 @@
 
 
 <!-- Project 1 -->
-## 🚀 Project 1: [Project Name 1]
+## 🚀 Project 1: [OutingBD]
 
-- **Description:** Briefly describe the project and its purpose.
+- **Description:** The project is about Travel and Tourism managment with Guide booking.
+
 - **Features:**
-  - Feature 1: Explain the first feature of the project.
-  - Feature 2: Describe the second feature in detail.
-  - Feature 3: Highlight the third notable feature.
-- **Technologies Used:** List the key technologies and tools employed in this project.
+  - Feature 1:The user can see all the features like packages,About packages,Guides and About those guide,Manage package and guide etc .
+
+  - Feature 2: There is a authentication system where the user must register/logged in for booking a guide or places.
+
+  - Feature 3: After confirm booking the user can give review for the places and also for the guide.
+
+- **Technologies Used:** Html,css,Tailwind css,js,React,Node,MongoDB,Express,Firebase .
+
 
 <!-- Project 2 -->
 ## 🚀 Project 2: [Project Name 2]
