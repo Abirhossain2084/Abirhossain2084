@@ -15,7 +15,7 @@
 </div>
 
 <!-- Social Media Connect Buttons -->
-## 💻 Connect with me
+## 🤝 Connect with me
 
 
 <div align="center">
@@ -36,9 +36,10 @@
 
 <div align="center">
   <a href="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,nodejs,express,react,vite,firebase,materialui,wordpress,figma" alt="My Skills" style="border-radius: 50%; padding: 5px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   </a>
 </div>
+
 
 
 <!-- Summary of card -->
