@@ -48,9 +48,12 @@
 
 <div align="center">
 <!-- Profile View Button -->
+<div align="center">
 <a href="https://github.com/Abirhossain2084">
     <img src="https://komarev.com/ghpvc/?username=Abirhossain2084" alt="Profile Views" />
   </a>
+</div>
+
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirhossain2084&theme=2077" alt="My GitHub Stats">
 
