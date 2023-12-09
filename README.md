@@ -14,6 +14,23 @@
   </a>
 </div>
 
+<!-- Social Media Connect Buttons -->
+## 💻 Connect with me
+
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/md-abir-hossain-212051275/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+
+ <a href="https://twitter.com/ABIR2084">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+ 
+</div>
+
+
 <!-- Technologies Icons -->
 ## 💻 Technologies and Skills
 
@@ -24,35 +41,15 @@
 </div>
 
 
-<!-- Profile View Button -->
-<div align="center">
-  <a href="https://github.com/Abirhossain2084">
-    <img src="https://komarev.com/ghpvc/?username=Abirhossain2084" alt="Profile Views" />
-  </a>
-</div>
-
-<!-- Social Media Connect Buttons -->
-<div align="center">
-  <a href="YourLinkedInProfileURL">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-
- <a href="YourTwitterProfileURL">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="YourGitHubProfileURL">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Add more social media buttons as needed -->
-</div>
-
-
-
 <!-- Summary of card -->
 
 ##  📚Summary of My Profile
 
 <div align="center">
+<!-- Profile View Button -->
+<a href="https://github.com/Abirhossain2084">
+    <img src="https://komarev.com/ghpvc/?username=Abirhossain2084" alt="Profile Views" />
+  </a>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirhossain2084&theme=2077" alt="My GitHub Stats">
 
